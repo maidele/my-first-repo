@@ -1,5 +1,5 @@
-#  Read Me First
+#  Read this First
 
-This is my first repo!
+This is Maidele's first repository!
 
-I want to learn to use GitHub!
+I would like to learn how to utilize GitHub!
