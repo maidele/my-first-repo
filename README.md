@@ -1,5 +1,5 @@
 #  Read this First
 
-This is Maidele's first repository!
+This is my first repository that I am doing for this semester!
 
-I would like to learn how to utilize GitHub!
+I look forward to learning how to utilize GitHub!
